@@ -1,0 +1,28 @@
+[submodule "userchallenge"]
+	path = userchallenge
+	url = https://github.com/CCTB-UW/userchallenge.git
+	branch = main
+[submodule "emailnotifications"]
+	path = emailnotifications
+	url = https://github.com/CCTB-UW/emailnotifications.git
+	branch = main
+[submodule "hintpointdelay"]
+	path = hintpointdelay
+	url = https://github.com/CCTB-UW/hintpointdelay
+	branch = main
+[submodule "inlineTranslation"]
+	path = inlineTranslation
+	url = https://github.com/CCTB-UW/inlineTranslation
+	branch = main
+[submodule "LLMObfuscate"]
+	path = LLMObfuscate
+	url = https://github.com/CCTB-UW/LLMObfuscate
+	branch = main
+[submodule "LuaUtils"]
+	path = LuaUtils
+	url = https://github.com/CCTB-UW/LuaUtils
+	branch = main
+[submodule "statFlags"]
+	path = statFlags
+	url = https://github.com/CCTB-UW/statFlags
+	branch = main
