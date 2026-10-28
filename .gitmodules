@@ -26,3 +26,7 @@
 	path = statFlags
 	url = https://github.com/CCTB-UW/statFlags
 	branch = main
+[submodule "fileFlags"]
+	path = fileFlags
+	url = https://github.com/CCTB-UW/fileFlags.git
+	branch = main
